@@ -1,2 +1,2 @@
 # stt-docs
-Official documents of the project "Schweizer Dialektsammlung"
+This repo hosts legal and pr documents tied to an STT project named *Schweizer Dialektsammlung*, the first recorded attempt in the history of mankind to teach Swiss German to AI.
