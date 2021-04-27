@@ -2,17 +2,14 @@
 
 Gültig ab 22.3.2021
 
-Die Schweizer Dialektsammlung
-([<u>www.dialektsammlung.ch</u>](http://www.dialektsammlung.ch)) wird
-von der Swiss Association for Natural Language Processing (SwissNLP,
-[<u>www.swissnlp.org</u>](http://www.swissnlp.org)) durchgeführt.
+Die <a href="http://www.dialektsammlung.ch" target="_blank">Schweizer Dialektsammlung</a> wird
+von der Swiss Association for Natural Language Processing 
+(<a href="httsp://swissnlp.org" target="_blank">SwissNLP</a>) durchgeführt.
 
 Diese Datenschutzerklärung beschreibt, welche Daten wir im Rahmen der
 Schweizer Dialektsammlung erfassen, und welche Rechte Sie dabei haben.
-Für Daten, die SwissNLP auf ihrer Website unter
-[<u>www.SwissNLP.ch</u>](http://www.swissnlp.ch) erfasst, gilt die
-allgemeine
-[SwissNLP-Datenschutzerklärung](https://swissnlp.org/about/privacypolicy/).
+Für Daten, die SwissNLP auf ihrer <a href="http://www.swissnlp.ch" target="_blank">Website</a> erfasst, 
+gilt die allgemeine <a href="https://swissnlp.org/about/privacypolicy/" target="_blank">SwissNLP-Datenschutzerklärung</a>.
 
 Durch die Nutzung der Schweizer Dialektsammlung erklären Sie sich mit
 der Bearbeitung von Daten gemäss der nachfolgenden Beschreibung
