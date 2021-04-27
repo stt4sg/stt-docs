@@ -3,12 +3,11 @@
 Gültig ab 22.3.2021
 
 Über unsere Webseite können Sie Sprachaufnahmen und weitere Ressourcen
-zur Verfügung stellen, die wir für die Schweizer Dialektsammlung
-([<u>www.dialektsammlung.ch</u>](http://www.dialektsammlung.ch))
+zur Verfügung stellen, die wir für die 
+<a href="http://www.dialektsammlung.ch" target="_blank">Schweizer Dialektsammlung</a>
 verwenden. Die Dialektsammlung wird von der Swiss Association for
-Natural Language Processing (SwissNLP,
-[<u>www.swissnlp.org</u>](http://www.swissnlp.org)) durchgeführt (im
-weiteren mit “wir”/”uns” bezeichnet).
+Natural Language Processing (<a href="https://swissnlp.org" target="_blank">SwissNLP</a>)
+durchgeführt (im Weiteren mit “wir”/”uns” bezeichnet).
 
 Mit Ihrer Teilnahme an der Schweizer Dialektsammlung akzeptieren Sie
 unsere folgenden Nutzungsbedingungen:
