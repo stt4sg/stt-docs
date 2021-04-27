@@ -4,7 +4,7 @@ Gültig ab 22.3.2021
 
 Die <a href="http://www.dialektsammlung.ch" target="_blank">Schweizer Dialektsammlung</a> wird
 von der Swiss Association for Natural Language Processing 
-(<a href="httsp://swissnlp.org" target="_blank">SwissNLP</a>) durchgeführt.
+(<a href="https://swissnlp.org" target="_blank">SwissNLP</a>) durchgeführt.
 
 Diese Datenschutzerklärung beschreibt, welche Daten wir im Rahmen der
 Schweizer Dialektsammlung erfassen, und welche Rechte Sie dabei haben.
