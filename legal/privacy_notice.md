@@ -8,7 +8,7 @@ von der Swiss Association for Natural Language Processing
 
 Diese Datenschutzerklärung beschreibt, welche Daten wir im Rahmen der
 Schweizer Dialektsammlung erfassen, und welche Rechte Sie dabei haben.
-Für Daten, die SwissNLP auf ihrer <a href="http://www.swissnlp.ch" target="_blank">Website</a> erfasst, 
+Für Daten, die SwissNLP auf ihrer <a href="http://www.swissnlp.org" target="_blank">Website</a> erfasst, 
 gilt die allgemeine <a href="https://swissnlp.org/about/privacypolicy/" target="_blank">SwissNLP-Datenschutzerklärung</a>.
 
 Durch die Nutzung der Schweizer Dialektsammlung erklären Sie sich mit
