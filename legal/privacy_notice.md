@@ -127,7 +127,7 @@ Nutzerkonto anlegen, bearbeiten wir u.a. folgende Daten:
     damit wir die Anzeige optimal für Sie gestalten können. Wenn Sie
     nicht an der Datenerfassung durch Google Analytics teilnehmen
     möchten, können Sie das Browser-Add-on 
-    <a href="https://tools.google.com/dlpage/gaoptout">Google Analytics</a>
+    <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">Google Analytics</a>
     installieren, das die Übertragung von Daten an Google Analytics
     unterbindet.
 
