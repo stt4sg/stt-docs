@@ -126,8 +126,8 @@ Nutzerkonto anlegen, bearbeiten wir u.a. folgende Daten:
     Ihren Standort und die in Ihrem Browser eingestellte Sprache,
     damit wir die Anzeige optimal für Sie gestalten können. Wenn Sie
     nicht an der Datenerfassung durch Google Analytics teilnehmen
-    möchten, können Sie das Browser-Add-on [<u>Google Analytics
-    Opt-out</u>](https://tools.google.com/dlpage/gaoptout)
+    möchten, können Sie das Browser-Add-on 
+    <a href="https://tools.google.com/dlpage/gaoptout">Google Analytics</a>
     installieren, das die Übertragung von Daten an Google Analytics
     unterbindet.
 
