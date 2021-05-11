@@ -159,6 +159,18 @@ Aufbewahrungsfrist. Nicht mehr notwendige Daten, für die keine
 gesetzliche Aufbewahrungspflicht besteht, werden nach dem Dahinfallen
 des Zweckes und Rechtfertigungsgrundes vernichtet.
 
+## Cookies
+
+Diese Website verwendet Cookies. Cookies sind kleine Textdateien, die 
+beim Besuch dieser Website in Ihrem Computer dauerhaft oder temporär 
+gespeichert werden. Zweck der Cookies ist insbesondere die Analyse 
+der Nutzung dieser Website zur statistischen Auswertung sowie 
+für kontinuierliche Verbesserungen.
+
+In Ihrem Browser können Sie Cookies in den Einstellungen jederzeit ganz 
+oder teilweise deaktivieren. Bei deaktivierten Cookies stehen Ihnen 
+allenfalls nicht mehr alle Funktionen dieser Website zur Verfügung.
+
 ## Rechte der Betroffenen
 
 Bearbeitet die SwissNLP Daten zu Ihrer Person, stehen Ihnen folgende
