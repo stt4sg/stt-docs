@@ -4,4 +4,4 @@
 <br/>
 
 ## Fernsehen
-* Schweiz Aktuell 25.5: "Zwei Schweizer Hochschulen digitalisieren Schweizer Dialekte"
+* Schweiz Aktuell 25.5: &laquo;Zwei Schweizer Hochschulen digitalisieren Schweizer Dialekte&raquo;
