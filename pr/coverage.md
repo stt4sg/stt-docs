@@ -16,6 +16,12 @@
   5. Radio SRF: Bestandteil der &laquo;18:00 Uhr Nachrichten&raquo;
 * 26.5:
   1. Radio Neo 1: &laquo;Können Siri & Alexa bald Dialekt?&raquo;
+* 27.5:
+  1. SRF2 Kultur: &laquo;So sollen Siri & Co. Schweizerdeutsch lernen&raquo;
+* 28.5:
+  1. SRF2 Kultur kompakt
+* 29.5:
+  1. RSI
 
 ## Artikel
 * 25.5:
@@ -24,7 +30,8 @@
   3. Bluewin: &laquo;Siri, Alexa und Co. sollen endlich Schweizerdeutsch lernen&raquo; 
   4. Presseportal: &laquo;Mithilfe der Bevölkerung: ZHAW und FHNW digitalisieren Schweizer Dialekte&raquo; 
   5. Nachrichten aus der Schweiz: &laquo;Forschende lancieren Dialektsammlung für Schweizer Mundart – Schweiz&raquo; 
+* 26.5:
+  1. PCtipp: &laquo;Forschende sammeln Schweizer Dialekte fürs Computerprogramm-Training&raquo; 
+* 1.6:
+  1. Com-Magazin.de: &laquo;Forschende wollen Schweizer Dialekte digitalisieren&raquo; 
 
-## Newsletter
-* 25.5:
-  1. ICT Kommunikation: &laquo;ZHAW und FHNW digitalisieren Schweizer Dialekte&raquo;
