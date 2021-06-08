@@ -6,6 +6,8 @@
 ## Fernsehen
 * 25.5:
   1. Schweiz Aktuell: &laquo;Zwei Schweizer Hochschulen digitalisieren Schweizer Dialekte&raquo;
+* 5.6: 
+  1. SRF1: &laquo;Siri lernt Schweizerdeutsch&raquo;
 
 ## Radio
 * 25.5:
