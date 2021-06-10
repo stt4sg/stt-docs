@@ -33,10 +33,15 @@
   * Presseportal: &laquo;Mithilfe der Bevölkerung: ZHAW und FHNW digitalisieren Schweizer Dialekte&raquo; 
   * Nachrichten aus der Schweiz: &laquo;Forschende lancieren Dialektsammlung für Schweizer Mundart – Schweiz&raquo; 
   * Nau.ch: &laquo;Forschende lancieren Dialektsammlung für Schweizer Mundart&raquo; 
+  * Stgallen24: &laquo;Algorithmen sollen Schweizer Mundart lernen&raquo;  
 * 26.5:
   * PCtipp: &laquo;Forschende sammeln Schweizer Dialekte fürs Computerprogramm-Training&raquo; 
+  * Zofinger Tagblatt: &laquo;Forschende lancieren Dialektsammlung für Schweizer Mundart&raquo; 
+  * ICT Journal: &laquo;Les Suisses alémaniques invités à enregistrer leur dialecte pour aider les IA à les comprendre&raquo; 
+  * Inside IT: &laquo;Forschende wollen Siri und Alexa Mundart beibringen&raquo; 
+* 27.5:
+  * Netzwoche: &laquo;Forscher wollen KIs Schweizer Dialekte beibringen&raquo; 
 * 1.6:
   * Com-Magazin.de: &laquo;Forschende wollen Schweizer Dialekte digitalisieren&raquo; 
 * 3.6:
   * Untersee Nachrichten: &laquo;Computer mit Thurgauer Wörter füttern&raquo; 
-
