@@ -34,3 +34,4 @@
 * Com-Magazin.de: &laquo;Forschende wollen Schweizer Dialekte digitalisieren&raquo; 
 * Untersee Nachrichten: &laquo;Computer mit Thurgauer Wörter füttern&raquo; 
 * Schweizer Familie, Frölein Da Capo: &laquo;Alter Forscht&raquo; 
+* Tagesanzeiger: &laquo;Alexa und Siri lernen Schweizerdeutsch: Jetzt ist Ihre Mundart gefragt&raquo; 
