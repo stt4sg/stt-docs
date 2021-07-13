@@ -24,7 +24,6 @@
 * Bluewin: &laquo;Siri, Alexa und Co. sollen endlich Schweizerdeutsch lernen&raquo; 
 * Presseportal: &laquo;Mithilfe der Bevölkerung: ZHAW und FHNW digitalisieren Schweizer Dialekte&raquo; 
 * Nachrichten aus der Schweiz: &laquo;Forschende lancieren Dialektsammlung für Schweizer Mundart – Schweiz&raquo; 
-* Nau.ch: &laquo;Forschende lancieren Dialektsammlung für Schweizer Mundart&raquo; 
 * Stgallen24: &laquo;Algorithmen sollen Schweizer Mundart lernen&raquo;  
 * PCtipp: &laquo;Forschende sammeln Schweizer Dialekte fürs Computerprogramm-Training&raquo; 
 * Zofinger Tagblatt: &laquo;Forschende lancieren Dialektsammlung für Schweizer Mundart&raquo; 
@@ -32,6 +31,5 @@
 * Inside IT: &laquo;Forschende wollen Siri und Alexa Mundart beibringen&raquo; 
 * Netzwoche: &laquo;Forscher wollen KIs Schweizer Dialekte beibringen&raquo; 
 * Com-Magazin.de: &laquo;Forschende wollen Schweizer Dialekte digitalisieren&raquo; 
-* Untersee Nachrichten: &laquo;Computer mit Thurgauer Wörter füttern&raquo; 
 * Schweizer Familie, Frölein Da Capo: &laquo;Alter Forscht&raquo; 
 * Tagesanzeiger: &laquo;Alexa und Siri lernen Schweizerdeutsch: Jetzt ist Ihre Mundart gefragt&raquo; 
