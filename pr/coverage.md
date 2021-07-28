@@ -17,6 +17,7 @@
 * SRF2 Kultur: &laquo;So sollen Siri & Co. Schweizerdeutsch lernen&raquo;
 * SRF2 Kultur kompakt
 * RSI
+* Radio Südostschweiz
 
 ## Artikel
 * Südostschweiz: &laquo;Forschende lancieren Dialektsammlung für Schweizer Mundart&raquo;
@@ -33,3 +34,4 @@
 * Com-Magazin.de: &laquo;Forschende wollen Schweizer Dialekte digitalisieren&raquo; 
 * Schweizer Familie, Frölein Da Capo: &laquo;Alter Forscht&raquo; 
 * Tagesanzeiger: &laquo;Alexa und Siri lernen Schweizerdeutsch: Jetzt ist Ihre Mundart gefragt&raquo; 
+* Südostschweiz: &laquo;So schlägt sich Graubünden im Dialektwettbewerb&raquo; 
